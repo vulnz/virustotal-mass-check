@@ -6,7 +6,7 @@ results on XLS table. Here we have single and mass scan mode.
 To run program please use main.bat
 main.bat is designed to run on Windows systems and accepts 3 variables.
 
-**Usage:**
+**Usage in single mode:**
 
 filename ( without extension), type of compilation (-r,-c), and url or comment of source we provide.
 
@@ -15,6 +15,16 @@ example 2: main.nat 2 -c information about file 2
 
 Files should be .red
 
+**Usage in mass mode:**
+
+1)open cmd.
+2)run mass_compiler.bat -r
+3)wait until it will compile files
+4) run mass_uploader will upload all exe files from output folder
+5) run mass_checker with desired information ( -r, and link from where you downloaded source or comment)
+example: mass_checker.bat -r https://1.com/source.code
+and it will check by md5 all exe files that and give results.
+If you get 0/0 on files = wait, viustotal does not give results right away. It can take up to 10 minutes for uploaded file to be checked.
 
 **Files:**
 
