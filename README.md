@@ -37,6 +37,16 @@ red.exe - red programming langiage compiler
 
 s.exe - windows signature checker helps to check for amount of problems within file in virustotal (0/65)
 
+**Usage:**
+
+Put .red files inside input.
+Run compiler with flag ( -r for example)
+It will automatically convert mass red to exe.
+After use mass uploader to upload them into virustotal.
+Some time later use mass_checker in order to mass check results.
+
+Visustotal api has 500 requests a day, 4 in a minute. Make sure to follow this limits.
+Acc.txt can be used for testing api. In order to change api please put api key inside config.txt file.
 
 **Mass compiler, checker and uploader:**
 converter.bat - file that converts output to csv
