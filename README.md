@@ -20,24 +20,39 @@ Files should be .red
 
 Main files:
 output.csv - file where all checks are placed
+
 compiler_no_red - if we want to check file without compiling from .red code
+
 pyth.bat - file that includes call for python
+
 main.bat - main fale that runs all project
+
 converter.bat - file that converts output to csv
+
 config.txt - config file with virustotal api key for python api script
+
 acc.txt - login, password and api key
+
 red.exe - red programming langiage compiler
+
 s.exe - windows signature checker helps to check for amount of problems within file in virustotal (0/65)
 
 
 **Mass compiler, checker and uploader:**
 converter.bat - file that converts output to csv
+
 mass_compiler.bat - massively compile files with needed key
+
 mass_checker.bat - massively checks md5 of uploaded files and adds to csv
+
 mass_uploader.bat - massively uploads files to virustotal 
+
 config.txt - config file for virustotal api for python
+
 red.scr - red compiler with scr ext
+
 s.scr - signcheck with scr ext
+
 virustotal - folder for python script that uses virustotal api
 
 **Video usage:**
