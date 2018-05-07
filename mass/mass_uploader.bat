@@ -1,0 +1,1 @@
+for /r %%i in (output\*.exe) do python virustotal/vt_driver.py --config config.txt file-scan  %%i

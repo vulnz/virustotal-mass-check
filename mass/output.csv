@@ -1,0 +1,17 @@
+Detection rate;Type;File path;
+"	VT detection:	0/0""";-r;C:\xampp\htdocs\dashboard\virustotal\test\output\1.exe;
+"	VT link:	https://www.virustotal.com/file/9d6b8160c966ccb28b75aca04aa4f0b898b51c41a0018eef8e9b4372038f0ca4/analysis/""";-r;C:\xampp\htdocs\dashboard\virustotal\test\output\1.exe;
+"	VT detection:	0/67""";-r;C:\xampp\htdocs\dashboard\virustotal\test\output\Composer-Setup.exe;
+"	VT link:	https://www.virustotal.com/file/acabee216e5b4805aa6893e80faf714f9763817657e0f30fd83caa7dbd48a9fa/analysis/""";-r;C:\xampp\htdocs\dashboard\virustotal\test\output\Composer-Setup.exe;
+"	VT detection:	1/67""";-r;C:\xampp\htdocs\dashboard\virustotal\test\output\tested.exe;
+"	VT link:	https://www.virustotal.com/file/9da5a899b9d55e1d43718ec0ad6368f9e9ef0242a4e88cd5ddb2cc6d7bfa5fb3/analysis/""";-r;C:\xampp\htdocs\dashboard\virustotal\test\output\tested.exe;
+"	VT detection:	0/0""";-r;C:\xampp\htdocs\dashboard\virustotal\test\output\windows.exe;
+"	VT link:	https://www.virustotal.com/file/1e5971b49899245428e74e7add09c89f64423868ce236ff6cc30f4f4ac9146d5/analysis/""";-r;C:\xampp\htdocs\dashboard\virustotal\test\output\windows.exe;
+"	VT detection:	8/67""";-r;C:\xampp\htdocs\dashboard\virustotal\test\output\1.exe;
+"	VT link:	https://www.virustotal.com/file/9d6b8160c966ccb28b75aca04aa4f0b898b51c41a0018eef8e9b4372038f0ca4/analysis/""";-r;C:\xampp\htdocs\dashboard\virustotal\test\output\1.exe;
+"	VT detection:	0/67""";-r;C:\xampp\htdocs\dashboard\virustotal\test\output\Composer-Setup.exe;
+"	VT link:	https://www.virustotal.com/file/acabee216e5b4805aa6893e80faf714f9763817657e0f30fd83caa7dbd48a9fa/analysis/""";-r;C:\xampp\htdocs\dashboard\virustotal\test\output\Composer-Setup.exe;
+"	VT detection:	1/67""";-r;C:\xampp\htdocs\dashboard\virustotal\test\output\tested.exe;
+"	VT link:	https://www.virustotal.com/file/9da5a899b9d55e1d43718ec0ad6368f9e9ef0242a4e88cd5ddb2cc6d7bfa5fb3/analysis/""";-r;C:\xampp\htdocs\dashboard\virustotal\test\output\tested.exe;
+"	VT detection:	7/67""";-r;C:\xampp\htdocs\dashboard\virustotal\test\output\windows.exe;
+"	VT link:	https://www.virustotal.com/file/1e5971b49899245428e74e7add09c89f64423868ce236ff6cc30f4f4ac9146d5/analysis/""";-r;C:\xampp\htdocs\dashboard\virustotal\test\output\windows.exe;

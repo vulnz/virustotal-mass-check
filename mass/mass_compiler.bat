@@ -1,0 +1,1 @@
+for /r %%i in (input\*.red) do red.scr %1 %%i && move *.exe output/

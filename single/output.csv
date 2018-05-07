@@ -1,0 +1,11 @@
+Detection;File name;Compilation type;URL of source
+"	VT detection:	0/0""";2;;
+"	VT link:	https://www.virustotal.com/file/8deab6470fac4a58019d5bb6d5c8bda81373d78fe4892fa7c204bcbcc7f29330/analysis/""";2;;
+"	VT detection:	Unknown""";2;-r;https://source.com/source
+"	VT link:	n/a""";2;-r;https://source.com/source
+"	VT detection:	6/64""";2;-r;http://we.check/1234.red
+"	VT link:	https://www.virustotal.com/file/4538651e3579c3d7cbfb26736aa806fab30082d64eac43bf463e418de5f98853/analysis/""";2;-r;http://we.check/1234.red
+	VT detection:	6/64",2,-r,"'http://we.check/1234.red"
+	VT link:	https://www.virustotal.com/file/4538651e3579c3d7cbfb26736aa806fab30082d64eac43bf463e418de5f98853/analysis/",2,-r,"'http://we.check/1234.red"
+	VT detection:	6/64",2,-r,"'http://we.check/1234.red"
+	VT link:	https://www.virustotal.com/file/4538651e3579c3d7cbfb26736aa806fab30082d64eac43bf463e418de5f98853/analysis/",2,-r,"'http://we.check/1234.red"
